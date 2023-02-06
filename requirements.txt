@@ -1,0 +1,9 @@
+pandas
+numpy
+stremlit
+google-cloud-bigquery
+matplotlib
+seaborn
+plotly
+tensorflow
+yfinance
